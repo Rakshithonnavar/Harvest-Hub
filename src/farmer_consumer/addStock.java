@@ -5,12 +5,14 @@
  */
 package farmer_consumer;
 
+import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 /**
  *
  * @author archer
  */
+
 public class addStock extends javax.swing.JFrame {
 
     /**
@@ -27,6 +29,7 @@ public class addStock extends javax.swing.JFrame {
         }
         initComponents();
     }
+
 
     /**
      * This method is called from within the constructor to initialize the form.
