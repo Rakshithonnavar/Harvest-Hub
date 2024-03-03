@@ -1,12 +1,4 @@
-<<<<<<< HEAD
 # Harvest-Hub
-=======
-#Harvest_Hub
-# Harvest-Hub
-
-
-[(/login_page.png)] 
-<!--(http://www.youtube.com/watch?v=WTZ97_qO5N4 "Click to watch video.")-->
 
 ## How to run 
 Open the Xampp Server Control and Start the Apache and MySQL Server.
