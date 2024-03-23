@@ -9,5 +9,4 @@ There's an SQL database file outside, first set up the database by providing the
 
 Then in Apache Netbeans, in the src folder run the Login.java file.
 
-Make the Modifications as per the Requirements.
->>>>>>> 602081fcc2ed05bd3a2776834b0173b67cf2d691
+
