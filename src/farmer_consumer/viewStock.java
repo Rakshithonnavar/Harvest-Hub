@@ -144,7 +144,7 @@ public class viewStock extends javax.swing.JFrame {
             }
         });
     }
-
+    
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel jLabel3;
     private javax.swing.JScrollPane jScrollPane1;
