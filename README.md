@@ -6,9 +6,6 @@
 
 <p id="description">Harvest Hub is a simple Java Swing Application developed could also be called as the Farmers Portal where the farmer uploads the goods and the same farm fresh products can be accessed and consumed by the customers.</p>
 
-<h2>🚀 Demo</h2>
-[ArrivingSoon](ArrivingSoon)
-
 
 <h2>🛠 Installation Steps:</h2>
 
