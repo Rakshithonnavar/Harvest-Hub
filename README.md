@@ -29,13 +29,13 @@ https://netbeans.apache.org/front/main/download/index.html
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://snipboard.io/rwgvpG.jpg" alt="project-screenshot" width="610" height="320/">
+<img src="https://snipboard.io/bJTwXB.jpg" alt="project-screenshot" width="610" height="320/">
 
-<img src="https://snipboard.io/rPiLOm.jpg" alt="project-screenshot" width="610" height="320/">
+<img src="https://snipboard.io/jD2JFn.jpg" alt="project-screenshot" width="610" height="320/">
 
-<img src="https://snipboard.io/9mziPb.jpg" alt="project-screenshot" width="610" height="320/">
+<img src="https://snipboard.io/Y4j9kv.jpg" alt="project-screenshot" width="610" height="320/">
 
-<img src="https://snipboard.io/KSdBc6.jpg" alt="project-screenshot" width="610" height="320/">
+<img src="https://snipboard.io/wh9CJd.jpg" alt="project-screenshot" width="610" height="320/">
 
 <img src="https://snipboard.io/tD3sPk.jpg" alt="project-screenshot" width="610" height="320/">
 
@@ -66,6 +66,5 @@ This project is licensed under the Standard MIT License.
 
 <h2>💖Like my work?</h2>
 
-Hey there! Just wanted to let you know that if you ever need any help with your project don't hesitate to reach out to me. I'm always here to support you in any way I can and I'm excited to see how your project progresses. So feel free to hit me up anytime!
-
+Hey there! Just wanted to let you know that if you ever need any help with your project don't hesitate to reach out to me. I'm always here to support you in any way I can and I'm excited to see how your project progresses. So feel free to hit me up anytime!
 
